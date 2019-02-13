@@ -1,4 +1,4 @@
-# Flint --- A  Programmable Style and Documentation Linter for Java
+# Flint --- A  Programmable Style Linter for Java
 
 # Table Of Contents
 
