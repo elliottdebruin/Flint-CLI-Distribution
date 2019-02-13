@@ -1,7 +1,4 @@
-# Flint-CLI-Distribution
-<!--
--->
-# Flint User Manual --- A  Programmable Style and Documentation Linter for Java
+# Flint --- A  Programmable Style and Documentation Linter for Java
 
 # Table Of Contents
 
